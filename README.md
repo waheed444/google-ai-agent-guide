@@ -5,25 +5,24 @@ This repository contains a structured summary and practical insights from **Goog
 ---
 
 ## 📑 Table of Contents
-
-1. [Introduction](#introduction)  
-2. [Core Concepts of AI Agents](#core-concepts-of-ai-agents)  
-   - [Key Components of Every Agent](#key-components-of-every-agent)  
-   - [The Role of Grounding in Agentic Systems](#the-role-of-grounding-in-agentic-systems)  
-   - [Key Takeaways](#key-takeaways-core-concepts)  
-3. [How to Build AI Agents](#how-to-build-ai-agents)  
-   - [A Complete Toolkit for Building AI Agents](#a-complete-toolkit-for-building-ai-agents)  
-   - [Step-by-Step: Defining an LLM Agent](#step-by-step-defining-an-llm-agent)  
-   - [Govern & Scale with Google Agentspace](#govern--scale-with-google-agentspace)  
-   - [Other Options for Building Agents](#other-options-for-building-agents)  
-   - [Key Takeaways](#key-takeaways-build)  
-4. [Ensuring Reliable & Responsible AI Agents](#ensuring-reliable--responsible-ai-agents)  
-   - [AgentOps for Production-Readiness](#agentops-for-production-readiness)  
-   - [Responsible & Secure Agent Design](#responsible--secure-agent-design)  
-   - [Key Takeaways](#key-takeaways-reliability)  
-5. [Google’s Full AI Stack](#googles-full-ai-stack)  
-6. [Conclusion](#conclusion)  
-7. [Resources](#resources)  
+- [Introduction](#introduction)
+- [Core Concepts of AI Agents](#core-concepts-of-ai-agents)
+  - [Key Components of Every Agent](#key-components-of-every-agent)
+  - [The Role of Grounding in Agentic Systems](#the-role-of-grounding-in-agentic-systems)
+  - [Key Takeaways – Core Concepts](#key-takeaways--core-concepts)
+- [How to Build AI Agents](#how-to-build-ai-agents)
+  - [A Complete Toolkit for Building AI Agents](#a-complete-toolkit-for-building-ai-agents)
+  - [Step-by-Step – Defining an LLM Agent](#step-by-step--defining-an-llm-agent)
+  - [Govern and Scale with Google Agentspace](#govern-and-scale-with-google-agentspace)
+  - [Other Options for Building Agents](#other-options-for-building-agents)
+  - [Key Takeaways – Build](#key-takeaways--build)
+- [Ensuring Reliable and Responsible AI Agents](#ensuring-reliable-and-responsible-ai-agents)
+  - [AgentOps for Production-Readiness](#agentops-for-production-readiness)
+  - [Responsible and Secure Agent Design](#responsible-and-secure-agent-design)
+  - [Key Takeaways – Reliability](#key-takeaways--reliability)
+- [Google’s Full AI Stack](#googles-full-ai-stack)
+- [Conclusion](#conclusion)
+- [Resources](#resources)
 
 ---
 

@@ -26,14 +26,14 @@ This repository contains a structured summary and practical insights from **Goog
 
 ---
 
-## 1️⃣ Introduction
+##  Introduction
 
 Provides a **high-level overview** of agentic AI and its impact on modern software engineering.  
 Explains why AI agents represent a paradigm shift in automation, and how they help startups automate workflows, improve user experiences, and solve previously infeasible problems.
 
 ---
 
-## 2️⃣ Core Concepts of AI Agents
+##  Core Concepts of AI Agents
 
 ### 📌 Key Components of Every Agent
 Explains the **building blocks** of an agent:
@@ -43,7 +43,7 @@ Explains the **building blocks** of an agent:
 - **Orchestration** → Plans multi-step tasks using frameworks like **ReAct (Reason + Act)**.
 - **Runtime** → Infrastructure for secure, scalable deployment.
 
-### 🔗 The Role of Grounding in Agentic Systems
+###  The Role of Grounding in Agentic Systems
 Covers **RAG (Retrieval-Augmented Generation)**, **GraphRAG**, and **Agentic RAG** for making agents **trustworthy and fact-based**.  
 Explains how to connect agents to real-time data sources, verify facts, and prevent hallucinations.
 
@@ -52,36 +52,36 @@ Summarizes **best practices for choosing models, designing tools, and orchestrat
 
 ---
 
-## 3️⃣ How to Build AI Agents
+##  How to Build AI Agents
 
 ### 🛠 A Complete Toolkit for Building AI Agents
 Introduces **Google’s Agent Development Kit (ADK)**, **Model Context Protocol (MCP)**, and **Agent2Agent (A2A)** for collaborative multi-agent systems.
 
-### 📋 Step-by-Step: Defining an LLM Agent
+###  Step-by-Step: Defining an LLM Agent
 Walks through building agents from scratch:
 - Select the right agent architecture (LLM Agent, Workflow Agent, or Custom Agent).
 - Define tools with clear function signatures and schemas.
 - Implement **ReAct loops** for reasoning + acting.
 - Test and debug with ADK’s observability tools.
 
-### 🏢 Govern & Scale with Google Agentspace
+###  Govern & Scale with Google Agentspace
 Explains how **Google Agentspace** enables:
 - No-code agent creation for non-technical teams.
 - Orchestrating and managing a workforce of multiple agents.
 - Cross-application workflows and data integration.
 
-### 🧩 Other Options for Building Agents
+###  Other Options for Building Agents
 Explores additional tools and integrations:
 - **Gemini Code Assist** for developer productivity.
 - **Gemini Cloud Assist** for cloud infrastructure automation.
 - Open-source options like LangChain, CrewAI, and LangGraph.
 
-### ✅ Key Takeaways (Build)
+###  Key Takeaways (Build)
 Best practices for **rapid prototyping**, **evaluation before deployment**, and **choosing scalable runtime environments** like Vertex AI Agent Engine or Cloud Run.
 
 ---
 
-## 4️⃣ Ensuring Reliable & Responsible AI Agents
+##  Ensuring Reliable & Responsible AI Agents
 
 ### 🧪 AgentOps for Production-Readiness
 Introduces **AgentOps**, a framework for:
@@ -89,18 +89,18 @@ Introduces **AgentOps**, a framework for:
 - Performance monitoring.
 - Debugging reasoning traces and tool usage.
 
-### 🔐 Responsible & Secure Agent Design
+###  Responsible & Secure Agent Design
 Covers techniques for:
 - **Safety filters** (to block harmful content).
 - **Access control** (for secure data usage).
 - **Compliance** (auditing and observability).
 
-### ✅ Key Takeaways (Reliability)
+###  Key Takeaways (Reliability)
 Checklist for launching **safe, production-grade AI agents**.
 
 ---
 
-## 5️⃣ Google’s Full AI Stack
+##  Google’s Full AI Stack
 Highlights Google Cloud’s **end-to-end ecosystem**:
 - Gemini family of models
 - Vertex AI Search & RAG Engine
@@ -109,12 +109,12 @@ Highlights Google Cloud’s **end-to-end ecosystem**:
 
 ---
 
-## 6️⃣ Conclusion
+##  Conclusion
 Wraps up the guide, reinforcing that **agentic AI enables startups to build scalable, intelligent systems faster than ever before.**
 
 ---
 
-## 7️⃣ Resources
+##  Resources
 Links to:
 - **ADK Documentation:** [google.github.io/adk-docs](https://google.github.io/adk-docs/)  
 - **Agent Starter Pack:** [GitHub Repo](https://github.com/GoogleCloudPlatform/agent-starter-pack)  
